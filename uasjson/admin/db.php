@@ -1,4 +1,4 @@
 <?php
- header("Access-Control-Allow-Origin: *");
- $koneksi = mysqli_connect("localhost","root","","mahasiswa") or die ("could not connect database");
+ 
+ $koneksi = mysqli_connect("localhost","id10253957_mahasiswa","mahasiswa","id10253957_mahasiswa") or die ("could not connect database");
 ?>
